@@ -1,24 +1,18 @@
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/repository-template)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/repository-template)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/repository-template)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/repository-template)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/repository-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/task-time-tracker)
+![GitHub License](https://img.shields.io/github/license/MaxGripe/task-time-tracker)
+![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/task-time-tracker)
+![GitHub forks](https://img.shields.io/github/forks/MaxGripe/task-time-tracker)
+![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/task-time-tracker)
 
 
-# Template Repository
+# Task Time Tracker
 
-This repository serves as a template for starting new projects.
+Work in progress. Please come back later :)
 
 ## Features
 
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
-
-## Getting started
-
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+- Hacks time
 
 ## License
 
