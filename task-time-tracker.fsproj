@@ -9,7 +9,7 @@
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
     <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <PublishTrimmed>true</PublishTrimmed>
+    <PublishTrimmed>false</PublishTrimmed>
     <TrimmerRemoveSymbols>true</TrimmerRemoveSymbols>
     <DebuggerSupport>false</DebuggerSupport>
     <EnableUnsafeBinaryFormatterSerialization>false</EnableUnsafeBinaryFormatterSerialization>
@@ -21,7 +21,7 @@
     <StackTraceSupport>false</StackTraceSupport>
     <NullabilityInfoContextSupport>false</NullabilityInfoContextSupport>
     <UseSystemResourceKeys>false</UseSystemResourceKeys>
-    <IlcDisableReflection>true</IlcDisableReflection>
+    <IlcDisableReflection>false</IlcDisableReflection>
     <IlcGenerateCompleteTypeMetadata>false</IlcGenerateCompleteTypeMetadata>
     <IlcOptimizeAssembly>true</IlcOptimizeAssembly>
     <XmlResolverIsNetworkingEnabledByDefault>false</XmlResolverIsNetworkingEnabledByDefault>
@@ -29,8 +29,8 @@
     <DebugType>none</DebugType>
     <OptimizationPreference>Size</OptimizationPreference>
     <SelfContained>true</SelfContained>
-    <EnableDynamicCode>false</EnableDynamicCode>
-    <EnableRuntimeMarshalling>false</EnableRuntimeMarshalling>
+    <EnableDynamicCode>true</EnableDynamicCode>
+    <EnableRuntimeMarshalling>true</EnableRuntimeMarshalling>
     <UseSystemResourceKeys>false</UseSystemResourceKeys>
     <EventSourceSupport>false</EventSourceSupport>
     <MetadataUpdaterSupport>false</MetadataUpdaterSupport>
