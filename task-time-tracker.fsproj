@@ -4,6 +4,42 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <RootNamespace>task_time_tracker</RootNamespace>
+    <PublishSingleFile>true</PublishSingleFile>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <PublishTrimmed>true</PublishTrimmed>
+    <TrimmerRemoveSymbols>true</TrimmerRemoveSymbols>
+    <DebuggerSupport>false</DebuggerSupport>
+    <EnableUnsafeBinaryFormatterSerialization>false</EnableUnsafeBinaryFormatterSerialization>
+    <EnableUnsafeUTF7Encoding>false</EnableUnsafeUTF7Encoding>
+    <EventSourceSupport>false</EventSourceSupport>
+    <HttpActivityPropagationSupport>false</HttpActivityPropagationSupport>
+    <MetadataUpdaterSupport>false</MetadataUpdaterSupport>
+    <MetricsSupport>false</MetricsSupport>
+    <StackTraceSupport>false</StackTraceSupport>
+    <NullabilityInfoContextSupport>false</NullabilityInfoContextSupport>
+    <UseSystemResourceKeys>false</UseSystemResourceKeys>
+    <IlcDisableReflection>true</IlcDisableReflection>
+    <IlcGenerateCompleteTypeMetadata>false</IlcGenerateCompleteTypeMetadata>
+    <IlcOptimizeAssembly>true</IlcOptimizeAssembly>
+    <XmlResolverIsNetworkingEnabledByDefault>false</XmlResolverIsNetworkingEnabledByDefault>
+    <WarningLevel>0</WarningLevel>
+    <DebugType>none</DebugType>
+    <OptimizationPreference>Size</OptimizationPreference>
+    <SelfContained>true</SelfContained>
+    <EnableDynamicCode>false</EnableDynamicCode>
+    <EnableRuntimeMarshalling>false</EnableRuntimeMarshalling>
+    <UseSystemResourceKeys>false</UseSystemResourceKeys>
+    <EventSourceSupport>false</EventSourceSupport>
+    <MetadataUpdaterSupport>false</MetadataUpdaterSupport>
+    <StackTraceSupport>false</StackTraceSupport>
+    <NullabilityInfoContextSupport>false</NullabilityInfoContextSupport>
+    <StripSymbols>true</StripSymbols>
+    <Configuration>Release</Configuration>
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+    <Optimize>true</Optimize>
   </PropertyGroup>
 
   <ItemGroup>
